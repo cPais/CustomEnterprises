@@ -1,0 +1,160 @@
+body{
+	background-color:#b3d1ff;
+}
+
+#MainContentArea{
+height:601px;
+width:890px;
+background-color:#e6f0ff;
+position:absolute;
+border-radius:25px;
+
+top:120px;
+left:67px;	
+}
+
+
+
+
+#TopContentArea{
+	height:110px;
+	width:1024px;
+	position:absolute;
+	background-color:#80b3ff;
+	
+	top:0px;
+	left:0px;
+	
+}
+
+#Picture1{
+	position:absolute;
+	top:140px;
+	left:80px;
+	
+}
+
+
+
+#CompanyName{
+	position:absolute;
+	top:30px;
+	left:30px;
+	font-size:250%;
+	color:white;
+	font-style:italic;
+}
+
+#Menu1{
+	position:absolute;
+	top:75px;
+	right:180px;
+}
+
+#TopContentArea ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	font-weight: bold;
+	
+    
+}
+
+
+#TopContentArea li  {
+    float: left;
+	margin: 0px 0px 10px 10px;
+}
+
+#TopContentArea li  a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 5px 5px;
+    text-decoration: none;
+	background-color:#99c2ff;
+	
+}
+
+#TopContentArea li  a:hover {
+    background-color: #66a3ff;
+}
+
+
+#Menu2{
+	position:absolute;
+	top:335px;
+	right:60px;
+}
+
+#Menu2_Header{
+	position:absolute;
+	right:110px;
+	top:430px;
+}
+
+#Menu3_Header{
+	position:absolute;
+	right:110px;
+	top:590px;
+}
+
+#Text1_Header{
+	position:absolute;
+	left:120px;
+	top:430px;
+}
+#Text1{
+	position:absolute;
+	left:120px;
+	top:450px;
+	height:30px;
+	width:200px;
+}
+
+#Text2_Header{
+	position:absolute;
+	left:120px;
+	top:590px;
+}
+
+#Text2{
+	position:absolute;
+	left:120px;
+	top:615px;
+	height:30px;
+	width:200px;
+}
+
+.Header{
+	font-size:160%;
+	color: #3385ff;
+}
+
+#MainContentArea ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+	
+	
+    
+}
+
+#Menu3{
+	position:absolute;
+	top:500px;
+	right:70px;
+}
+
+
+#MainContentArea li{
+	margin: 8px;
+	
+}
+
+#MainContentArea li a{
+	color: white;
+	
+}
